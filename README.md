@@ -1,0 +1,1 @@
+This repository contains a simple Elixir function that demonstrates a common TypeError.  The function adds two arguments, but does not check their types.  This can lead to runtime errors if the arguments are not numbers. A solution is provided that handles potential errors.
